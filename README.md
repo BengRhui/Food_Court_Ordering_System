@@ -20,11 +20,18 @@ Our project has demonstrated a few programming concepts:
 ## Running Our Project
 Prerequisite before running project:
 - Java Development Kit (JDK) is installed on your computer (*preferably later than JDK 21*).
+- Maven is installed
+  - For macOS, after installing `brew`, execute `brew install maven` on terminal
 - (*Optional*) An IDE to run Java prorgams, e.g. IntelliJ IDEA / Netbeans / Visual Studio Code.
 
 Steps to run the project:
-- ABC
-- ABC
+- To run the project on Terminal (on macOS), follow these steps:
+  - Download the project as a ZIP file and unzip it.
+  - Via the terminal, change the directory to the location of the unzipped file using the command `cd \PATH_TO_FOLDER\`.
+  - Run the following commands one-by-one:<br>
+    `mvn compile`<br>
+    `mvn exec:java`<br>
+- The project can also be opened on an IDE and runned directly.
 
 All credentials for login can be found at `src/main/resources/text_file/login_credentials.txt`.
 
