@@ -18,11 +18,15 @@ Our project has demonstrated a few programming concepts:
 ---
 
 ## Running Our Project
-To run our program, you shall make sure that:
+Prerequisite before running project:
 - Java Development Kit (JDK) is installed on your computer (*preferably later than JDK 21*).
 - (*Optional*) An IDE to run Java prorgams, e.g. IntelliJ IDEA / Netbeans / Visual Studio Code.
- 
-All credentials for login can be found at `\this\path\to\be\updated\later`.
+
+Steps to run the project:
+- ABC
+- ABC
+
+All credentials for login can be found at `src/main/resources/text_file/login_credentials.txt`.
 
 ---
 
