@@ -1,11 +1,5 @@
-# OODJ ASSIGNMENT
-
-Hi everyone! This is the repository for our Java group project.
-
----
-
-## Introduction
-This Java project is about a food court management system, featuring 5 different users with each assigned with distinct reponsibilities.
+# Food Court Ordering System
+Hi everyone! This is the repository for a food court management system, written using Java and featuring 5 different users with each assigned with distinct reponsibilities.
 
 ---
 
